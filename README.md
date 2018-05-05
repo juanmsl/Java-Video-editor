@@ -104,6 +104,5 @@
                                                                      Universidad: Pontificia Javeriana
                                                                         Profesor: Luis Guillermo Torres
                                                                      Estudiantes: Juan Manuel Sánchez
-                                                                                  Luis Felipe Urdaneta
                                                                            Fecha: 22/11/2016
                                                                  ----------------------------------------
